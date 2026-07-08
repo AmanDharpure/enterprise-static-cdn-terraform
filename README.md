@@ -143,25 +143,29 @@ terraform destroy
 
 ## Website
 
-![Website](screenshots/website-homepage.png)
+<img width="1902" height="962" alt="Screenshot 2026-07-08 224606" src="https://github.com/user-attachments/assets/e6bb672f-58e2-48ed-9c7e-3bb3f9c280ce" />
+
 
 ---
 
 ## CloudFront Distribution
 
-![CloudFront](screenshots/cloudfront-distribution.png)
+<img width="1917" height="901" alt="Screenshot 2026-07-08 224809" src="https://github.com/user-attachments/assets/76a20ad5-f409-4c89-aca8-fe5ac8bc47c2" />
+
 
 ---
 
 ## Amazon S3 Bucket
 
-![S3](screenshots/s3-assets-bucket.png)
+<img width="1912" height="906" alt="Screenshot 2026-07-08 224857" src="https://github.com/user-attachments/assets/4a5761a0-f96d-4a60-a102-05b5cd32d808" />
+
 
 ---
 
 ## Project Structure
 
-![Project Structure](screenshots/project-structure.png)
+<img width="1917" height="1020" alt="Screenshot 2026-07-09 000557" src="https://github.com/user-attachments/assets/7997f3cb-b277-4d4d-8615-f68639ac5f42" />
+
 
 ---
 
