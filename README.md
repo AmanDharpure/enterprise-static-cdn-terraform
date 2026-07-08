@@ -72,11 +72,14 @@ The entire infrastructure is managed using **Terraform**, following Infrastructu
 
 ---
 
-#  Project Structure
+# Project Structure
 
-```
+```text
 Enterprise-Static-CDN-Terraform
 │
+├── .gitignore
+├── .terraform.lock.hcl
+├── README.md
 ├── cloudfront.tf
 ├── outputs.tf
 ├── provider.tf
@@ -84,11 +87,12 @@ Enterprise-Static-CDN-Terraform
 ├── terraform.tfvars
 ├── variables.tf
 ├── versions.tf
+│
 ├── website
 │   ├── index.html
 │   └── style.css
-├── README.md
-└── .gitignore
+│
+└── screenshots
 ```
 
 ---
