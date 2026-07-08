@@ -1,7 +1,7 @@
 # enterprise-static-cdn-terraform
 <div align="center">
 
-# 🚀 Enterprise Static CDN on AWS using Terraform
+#  Enterprise Static CDN on AWS using Terraform
 
 ### Infrastructure as Code (IaC) | Amazon S3 | CloudFront | Origin Access Control (OAC) | Terraform
 
@@ -15,7 +15,7 @@
 
 ---
 
-# 📖 Overview
+#  Overview
 
 This project demonstrates how to deploy a **secure, production-style static website** on **Amazon Web Services (AWS)** using **Terraform**.
 
@@ -25,7 +25,7 @@ The entire infrastructure is managed using **Terraform**, following Infrastructu
 
 ---
 
-# 🏗️ Architecture
+#  Architecture
 
 ```
                     ┌────────────────────┐
@@ -45,7 +45,7 @@ The entire infrastructure is managed using **Terraform**, following Infrastructu
 
 ---
 
-# 🚀 Features
+#  Features
 
 - ✅ Infrastructure as Code using Terraform
 - ✅ Private Amazon S3 bucket
@@ -60,7 +60,7 @@ The entire infrastructure is managed using **Terraform**, following Infrastructu
 
 ---
 
-# 🛠️ AWS Services Used
+#  AWS Services Used
 
 | Service | Purpose |
 |----------|---------|
@@ -72,7 +72,7 @@ The entire infrastructure is managed using **Terraform**, following Infrastructu
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Enterprise-Static-CDN-Terraform
@@ -93,7 +93,7 @@ Enterprise-Static-CDN-Terraform
 
 ---
 
-# ⚙️ Terraform Workflow
+# Terraform Workflow
 
 ### Initialize Terraform
 
@@ -127,7 +127,7 @@ terraform destroy
 
 ---
 
-# 🔐 Security Best Practices
+# Security Best Practices
 
 - Private S3 bucket
 - Public access blocked
@@ -139,7 +139,7 @@ terraform destroy
 
 ---
 
-# 📸 Project Screenshots
+# Project Screenshots
 
 ## Website
 
@@ -165,7 +165,7 @@ terraform destroy
 
 ---
 
-# 🚀 Deployment
+# Deployment
 
 Clone the repository
 
@@ -193,7 +193,7 @@ terraform apply
 
 ---
 
-# 📊 Terraform Resources Created
+# Terraform Resources Created
 
 - Amazon S3 Bucket
 - S3 Bucket Versioning
@@ -206,7 +206,7 @@ terraform apply
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 Through this project I gained hands-on experience with:
 
@@ -223,7 +223,7 @@ Through this project I gained hands-on experience with:
 
 ---
 
-# 📌 Future Enhancements
+# Future Enhancements
 
 - GitHub Actions CI/CD
 - Remote Terraform State (S3 + DynamoDB)
@@ -235,12 +235,12 @@ Through this project I gained hands-on experience with:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Aman Dharpure**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/aman-dharpure-333397324
-- 💻 GitHub: https://github.com/AmanDharpure
+-  LinkedIn: https://www.linkedin.com/in/aman-dharpure-333397324
+-  GitHub: https://github.com/AmanDharpure
 
 ---
 
