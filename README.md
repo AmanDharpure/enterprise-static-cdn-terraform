@@ -1,1 +1,1 @@
-# enterprise-static-cdn
+# enterprise-static-cdn-terraform
